@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+Or execute txt-extractor.exe without needing python or libraries
 
 ## Educational value
 This project is useful for practicing:
@@ -38,4 +39,4 @@ This project is useful for practicing:
 - Unsaved changes warning
 
 ## License
-Add a license file if you want to publish the project as open source.
+MIT License
