@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-Or execute txt-extractor.exe without needing python or libraries
+Or execute txt-editor.exe without needing python or libraries
 
 ## Educational value
 This project is useful for practicing:
