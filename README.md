@@ -3,6 +3,11 @@
 TXT Editor is a simple Python-based text editor project created to work with plain text files through a lightweight interface.
 
 It is a good educational project for learning file handling, GUI logic, and desktop application structure.
+<br>
+<br>
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<br>
+<br>
 
 ## Features
 - Open text files
