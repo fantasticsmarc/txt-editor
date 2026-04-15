@@ -37,11 +37,11 @@ This project is useful for practicing:
 - Event-driven programming
 
 ## Possible improvements
-- Keyboard shortcuts
-- Dark mode
-- Search and replace
-- Tabs for multiple files
-- Unsaved changes warning
+- [ ] Keyboard shortcuts
+- [ ] Dark mode
+- [ ] Search and replace
+- [ ] Tabs for multiple files
+- [ ] Unsaved changes warning
 
 ## License
 MIT License
